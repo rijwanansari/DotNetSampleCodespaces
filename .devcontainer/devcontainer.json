@@ -3,9 +3,9 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/dotnet
 {
 	"hostRequirements": {
-	   "cpus": 8,
-	   "memory": "8gb",
-	   "storage": "32gb"
+	   "cpus": 4,
+	   "memory": "4gb",
+	   "storage": "16gb"
 	},
 	"name": "C# (.NET)",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
